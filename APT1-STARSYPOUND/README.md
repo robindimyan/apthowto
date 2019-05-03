@@ -13,3 +13,7 @@
 3. Execute the implant and enjoy your reverse shell :)
 
 ![](https://j.gifs.com/nxORj4.gif)
+
+# Communication
+
+![](https://i.ibb.co/WW37KZ4/3.png)
