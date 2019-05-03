@@ -1,5 +1,7 @@
 # APT1 STARSYPOUND IMPLANT
 
+SHA256: 84b7967aad00e982842045e7b9744af0a457d46bba70456e5f99e7eb9cd783c7
+
 ## How to use:
 
 1. Patch the ip address in resources
