@@ -1,7 +1,7 @@
 # apthowto
 Liberating dem proprietary APT implants so now everyone can be an apt
 
-### credits: A project of W2B Research Team - Kudos to all friends!
+### credits: A project of MDV Research Team - Kudos to all friends!
 - Ahmet Kotan (Github: 0r1gamic , Twitter: ahmetkotan)
 - Cem Onat Karagün (Github: cemonatk , Twitter: cemonatk)
 - Emrah Demir (Github: lntrx , Twitter: lntrx)
